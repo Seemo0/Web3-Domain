@@ -25,10 +25,7 @@ async function connectWallet() {
 </script>
 <template>
   <div className="connect-wallet-container">
-    <img
-      src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif"
-      alt="Semo's donut gif"
-    />
+    
     <button @click="connectWallet" className="cta-button connect-wallet-button">
       Connect Wallet
     </button>
