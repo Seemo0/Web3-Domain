@@ -16,11 +16,6 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
       <slot></slot>
 
       <div className="footer-container">
-        <img
-          alt="Twitter Logo"
-          className="twitter-logo"
-          src="/twitter-logo.svg"
-        />
         <a
           className="footer-text"
           :href="TWITTER_LINK"
