@@ -1,3 +1,5 @@
+# This project is just for testing 
+
 # Workflow 
 - Solidity
 - Hardhat
@@ -6,6 +8,8 @@
 - Polygon mumbai
 
  Connect ur Metamask wallet (make sure to use a fake one), then go to this url <a target="_blank" href="https://faucet.polygon.technology/">here <a/> to send some fake polygon to your wallet and lastly mint ur domain name on the polygon mumbai blockchain.
+
+ After minting your domain check console to check transaction details on the polygonscan mumbai
 
 
 # Basic Sample Hardhat Project
