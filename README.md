@@ -1,3 +1,12 @@
+# Tools 
+- Solidity
+- Hardhat
+- Vuejs
+- Metamask 
+
+ Connect ur Metamask wallet (make sure to use a fake one), then go to this url <a href="https://faucet.polygon.technology/">here <a/> to send some fake polygon to your wallet and lastly mint ur domain name on the polygon mumbai blockchain.
+
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
